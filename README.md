@@ -3,13 +3,13 @@
 A timing API that fits in my head
 
 ```
-npm install cblanc/stopwatch
+npm install @cablanchard/stopwatch
 ```
 
 ## Use
 
 ```
-const { Stopwatch } = require("stopwatch");
+const { Stopwatch } = require("@cablanchard/stopwatch");
 
 const stopwatch = Stopwatch.start(); // Start the stopwatch
 
