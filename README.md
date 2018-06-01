@@ -1,5 +1,8 @@
 # Stopwatch
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cblanc/stopwatch.svg)](https://greenkeeper.io/)
+
+
 A timing API that fits in my head
 
 ```
