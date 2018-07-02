@@ -16,3 +16,4 @@ tsconfig.json
 tslint.json
 mocha.opts
 .circleci
+tests
