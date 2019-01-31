@@ -1,6 +1,6 @@
 # Stopwatch
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/cblanc/stopwatch.svg)](https://greenkeeper.io/)
+[![CircleCI](https://circleci.com/gh/cblanc/stopwatch.svg?style=svg)](https://circleci.com/gh/cblanc/stopwatch) [![Coverage Status](https://coveralls.io/repos/github/cblanc/stopwatch/badge.svg?branch=master)](https://coveralls.io/github/cblanc/stopwatch?branch=master)
 
 
 A timing API that fits in my head
